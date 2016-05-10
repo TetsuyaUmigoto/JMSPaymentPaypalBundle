@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.3.2",
         "symfony/framework-bundle": "*",
-        "jms/payment-core-bundle": "~1.0"
+        "jms/payment-core-bundle": "*"
     },
     "require-dev": {
         "symfony/browser-kit": "*"
